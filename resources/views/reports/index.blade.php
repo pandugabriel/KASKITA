@@ -89,7 +89,7 @@
 	<div class="row">
 		<div class="card px-3 py-3">
 			<form action="" method="GET">
-				<label for="start_date" class="pb-3 fw-bold">Filter Data dengan Rentang Tanggal :</label>
+				<label for="start_date" class="pb-3 fw-bold">Filter untuk Data beserta Rentang Tanggal :</label>
 				<div class="input-group">
 					<input type="date" name="start_date" class="form-control" placeholder="Pilih tanggal awal..">
 					<input type="date" name="end_date" class="form-control" placeholder="Pilih tanggal akhir..">
@@ -118,7 +118,7 @@
 					<thead>
 						<tr>
 							<th scope="col">#</th>
-							<th scope="col">Nama Pelajar</th>
+							<th scope="col">Nama Mahasiswa</th>
 							<th scope="col">Tanggal</th>
 							<th scope="col">Nominal Bayar</th>
 							<th scope="col">Pencatat</th>

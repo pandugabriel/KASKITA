@@ -4,8 +4,9 @@
 <div class="row h-100">
 	<div class="col-lg-5 col-12">
 		<div id="auth-left">
-			<h1 class="auth-title">Login.</h1>
-			<p class="auth-subtitle mb-5">Masuk untuk melanjutkan.</p>
+		<h1 class="auth-title" style="text-transform: uppercase;">Login.</h1>
+
+			<p class="auth-subtitle mb-5">Silahkan masukkan email yang terdaftar.</p>
 
 			<form action="{{ route('login') }}" method="POST">
 				@csrf
@@ -37,7 +38,8 @@
 						Keep me logged in
 					</label>
 				</div>
-				<button class="btn btn-primary btn-block btn-lg shadow-lg mt-5">Log in</button>
+				<button class="btn btn-primary btn-block btn-lg shadow-lg mt-5" style="background-color: yellow;">Log in</button>
+
 			</form>
 		</div>
 	</div>

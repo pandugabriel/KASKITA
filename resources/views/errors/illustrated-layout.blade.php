@@ -228,7 +228,7 @@
             }
 
             .bg-white {
-                background-color: #fff;
+                background-color: #000;
             }
 
             .bg-teal-light {

@@ -10,12 +10,15 @@
 						<div class="card-body px-3 py-4-5">
 							<div class="row">
 								<div class="col-md-4">
-									<div class="stats-icon purple">
-										<i class="iconly-boldProfile"></i>
-									</div>
+								<div class="stats-icon blue">
+    <i class="iconly-boldProfile"></i>
+</div>
+
+
 								</div>
 								<div class="col-md-8">
-									<h6 class="text-muted font-semibold">Pelajar</h6>
+								<h6 class="text-muted font-semibold" style="color: black; font-weight: bold;">Mahasiswa</h6>
+
 									<h6 class="font-extrabold {{ $studentCount <= 0 ? 'text-danger' : '' }} mb-0">
 										{{ $studentCount }}
 									</h6>
@@ -31,9 +34,11 @@
 						<div class="card-body px-3 py-4-5">
 							<div class="row">
 								<div class="col-md-4">
-									<div class="stats-icon blue">
-										<i class="iconly-boldBookmark"></i>
+								<div class="stats-icon red">
+								<i class="iconly-boldBookmark"></i>
 									</div>
+
+
 								</div>
 								<div class="col-md-8">
 									<h6 class="text-muted font-semibold">Kelas</h6>
@@ -52,12 +57,12 @@
 						<div class="card-body px-3 py-4-5">
 							<div class="row">
 								<div class="col-md-4">
-									<div class="stats-icon green">
+									<div class="stats-icon purple">
 										<i class="iconly-boldWork"></i>
 									</div>
 								</div>
 								<div class="col-md-8">
-									<h6 class="text-muted font-semibold">Jurusan</h6>
+									<h6 class="text-muted font-semibold">Prodi</h6>
 									<h6 class="font-extrabold {{ $schoolMajorCount <= 0 ? 'text-danger' : '' }} mb-0">
 										{{ $schoolMajorCount }}
 									</h6>
@@ -73,8 +78,8 @@
 						<div class="card-body px-3 py-4-5">
 							<div class="row">
 								<div class="col-md-4">
-									<div class="stats-icon red">
-										<i class="iconly-boldTicket"></i>
+									<div class="stats-icon green">
+									<i class="iconly-boldbi bi-cash-stack"></i>
 									</div>
 								</div>
 								<div class="col-md-8">
@@ -99,7 +104,7 @@
 							<table class="table table-hover table-striped table-lg">
 								<thead>
 									<tr>
-										<th>Nama Pelajar</th>
+										<th>Nama Mahasiswa</th>
 										<th>Total Bayar</th>
 										<th>Tanggal</th>
 										<th>Pencatat</th>

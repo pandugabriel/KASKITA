@@ -24,7 +24,7 @@
 		<li class="sidebar-item {{ request()->routeIs('students.*') ? 'active' : '' }}">
 			<a href="{{ route('students.index') }}" class='sidebar-link'>
 				<i class="bi bi-people-fill"></i>
-				<span>Pelajar</span>
+				<span>Mahasiswa</span>
 			</a>
 		</li>
 

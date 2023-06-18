@@ -7,7 +7,7 @@
 			<div class="card-body px-3 py-4-5">
 				<div class="row">
 					<div class="col-4">
-						<div class="stats-icon green">
+						<div class="stats-icon blue">
 							<i class="iconly-boldProfile"></i>
 						</div>
 					</div>
@@ -27,7 +27,7 @@
 			<div class="card-body px-3 py-4-5">
 				<div class="row">
 					<div class="col-4">
-						<div class="stats-icon blue">
+						<div class="stats-icon red">
 							<i class="iconly-boldProfile"></i>
 						</div>
 					</div>
