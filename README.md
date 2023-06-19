@@ -23,37 +23,8 @@ Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) di dal
 -   CRUD Data Transaksi Uang Kas
 -   CRUD Data Administrator
 -   Laporan
+ran.png)
 
-### Preview Gambar
-
-_Login_
-![Login](https://i.ibb.co/Ws6H4Kr/login.png)
-
-_Dashboard_
-![Dashboard](https://i.ibb.co/k3dCNyZ/dashboard.png)
-
-_Daftar Pelajar_
-![Daftar Pelajar](https://i.ibb.co/TPdYWxh/pelajar.png)
-
-_Daftar Kelas_
-![Daftar Kelas](https://i.ibb.co/9ZD9Nm4/kelas.png)
-
-_Daftar Jurusan_
-![Daftar Jurusan](https://i.ibb.co/LkFzhsS/jurusan.png)
-
-_Daftar Kas_
-![Daftar Kas](https://i.ibb.co/kBJwv30/kas-minggu-ini.png)
-
-![Filter Kas](https://i.ibb.co/F88Gkyx/filter-kas.png)
-
-_Laporan_
-![Laporan](https://i.ibb.co/FmdXMBC/laporan.png)
-
-_Daftar Administrator_
-![Daftar Administrator](https://i.ibb.co/pyk0dSk/administrator.png)
-
-_Logout_
-![Logout](https://i.ibb.co/0Jd6GDM/logout.png)
 
 ### Langkah-langkah instalasi
 
