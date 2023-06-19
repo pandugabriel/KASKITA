@@ -102,9 +102,6 @@ Password    : secret
 
 Silahkan request melalui kolom `Pull Requests` jika ingin melakukan kontribusi
 
-### Pembuat
-
--   **Muhammad Rizki Maulidan**  - [mrizkimaulidan](https://github.com/mrizkimaulidan)
 
 ### Lisensi
 
